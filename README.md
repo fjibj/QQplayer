@@ -12,3 +12,7 @@ set PATH=%JAVA_HOME%\bin;%PATH%
 #java -cp smartqq-master.jar WebContent "群名称" hour minute second 多长时间执行一次（小时） 当天还是第二天（1：第二天，0：当天）
 java -cp smartqq-master.jar WebContent "Just for test" 9 0 0 24 1 #表示于第二天早上9点开始执行，之后每隔24小时（一天）执行一次
 pause
+
+
+
+在此非常感谢SmartQQ和qqbot两个项目及其作者！
